@@ -9,7 +9,10 @@
 <h3 align="center">I Love Tech, I'm learning not simply to fulfill an obligation, but also to satisfy my interest and curiosity.</h3>
 <img align="right" alt="Trooper" width="250" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> </p>
+<p align="left"> 
+<!-- <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> -->
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VFGsPXfFeIcGdtwAIC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Alissandra-Sementilli-anime-naruto-itachi-uchiha-VFGsPXfFeIcGdtwAIC">via GIPHY</a></p>
+ </p>
 
 - 🔭 I’m currently do a bachelors degree at Royal University of Phnom Penh major in **[ITE](https://github.com/PAIR-code/lit)**
 
