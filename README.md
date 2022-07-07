@@ -1,4 +1,3 @@
-
 <!-- ![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/HELLO.gif) -->
 
 <p align="center">
@@ -7,11 +6,10 @@
 
 <h1 align="center">Hi 👋, I'm Pun VireakRoth</h1>
 <h3 align="center">I Love Tech, I'm learning not simply to fulfill an obligation, but also to satisfy my interest and curiosity.</h3>
-<img align="right" alt="Trooper" width="250" src="https://media.giphy.com/media/pGRYKh7FTWmhpeDIJc/giphy.gif">
+<img align="right" alt="Trooper" width="250" src="https://github.com/Punvireakroth/Punvireakroth/blob/main/itachi.gif">
 
 <p align="left"> 
-<!-- <img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" /> -->
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/VFGsPXfFeIcGdtwAIC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Alissandra-Sementilli-anime-naruto-itachi-uchiha-VFGsPXfFeIcGdtwAIC">via GIPHY</a></p>
+<img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" />
  </p>
 
 - 🔭 I’m currently do a bachelors degree at Royal University of Phnom Penh major in **[ITE](https://github.com/PAIR-code/lit)**
@@ -24,8 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-
 
 [![Aryan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aryan1107&&theme=xcode)](https://github.com/aryan1107)
 
