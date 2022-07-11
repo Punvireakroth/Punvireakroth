@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif)
+<!-- ![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif) -->
 
-<!-- <p align="center">
-  <img src="https://github.com/Punvireakroth/Punvireakroth/blob/main/HELLO.gif" alt="First Heading">
-</p> -->
+<p align="center">
+  <img src="https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif" alt="First Heading" width=80%>
+</p>
 
 <h1 align="center">Hi 👋, I'm Pun VireakRoth</h1>
 <h3 align="center">I Love Tech, I'm learning not simply to fulfill an obligation, but also to satisfy my interest and curiosity.</h3>
