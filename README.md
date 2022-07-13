@@ -25,7 +25,7 @@
 
 [![VireakRoth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Punvireakroth&&theme=xcode)](https://github.com/Punvireakroth)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan1107&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryan1107" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Punvireakroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryan1107" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan1107&show_icons=true&locale=en&theme=tokyonight" alt="aryan1107" /></p>
 
