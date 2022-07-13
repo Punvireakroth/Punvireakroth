@@ -9,7 +9,7 @@
 <img align="right" alt="itachi" width="250" src="https://github.com/Punvireakroth/Punvireakroth/blob/main/itachi.gif">
 
 <p align="left"> 
-<img  src="https://komarev.com/ghpvc/?username=aryan1107&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1107" />
+<img  src="https://komarev.com/ghpvc/?username=Punvireakroth&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" />
  </p>
 
 - 🔭 I’m currently do a bachelors degree at Royal University of Phnom Penh major in **[ITE](https://github.com/PAIR-code/lit)**
