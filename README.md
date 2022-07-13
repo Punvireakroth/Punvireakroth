@@ -25,10 +25,13 @@
 
 [![VireakRoth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Punvireakroth&&theme=xcode)](https://github.com/Punvireakroth)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Punvireakroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aryan1107" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Punvireakroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Punvireakroth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan1107&show_icons=true&locale=en&theme=tokyonight" alt="aryan1107" /></p>
+<!-- Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Punvireakroth&show_icons=true&locale=en&theme=tokyonight" alt="Punvireakroth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan1107&&theme=tokyonight" alt="aryan1107" /></p>
+<!-- Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punvireakroth&&theme=tokyonight" alt="Punvireakroth" /></p>
 
-<img src="https://raw.githubusercontent.com/aryan1107/aryan1107/output/github-contribution-grid-snake.svg" />
+<!-- Snake -->
+<img src="https://raw.githubusercontent.com/Punvireakroth/Punvireakroth/output/github-contribution-grid-snake.svg" />
