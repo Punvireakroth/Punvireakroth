@@ -40,11 +40,16 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Punvireakroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Punvireakroth" /></p>
 
-<!-- Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Punvireakroth&show_icons=true&locale=en&theme=tokyonight" alt="Punvireakroth" /></p>
+<p align="center">
+<a href="https://github.com/Punvireakroth">
+  <!-- Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Punvireakroth&show_icons=true&locale=en&theme=tokyonight" alt="Punvireakroth" />
 
-<!-- Streak -->
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punvireakroth&&theme=tokyonight" alt="Punvireakroth" /></p>
+  <!-- Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Punvireakroth&&theme=tokyonight" alt="Punvireakroth" />
+
+</a>
+</p>
 
 <!-- Snake -->
 <!-- <img src="https://raw.githubusercontent.com/Punvireakroth/Punvireakroth/output/github-contribution-grid-snake.svg" /> -->
