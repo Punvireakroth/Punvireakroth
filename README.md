@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punvireakroth&&theme=tokyonight" alt="Punvireakroth" /></p>
 
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/Punvireakroth/Punvireakroth/output/github-contribution-grid-snake.svg" />
+<!-- <img src="https://raw.githubusercontent.com/Punvireakroth/Punvireakroth/output/github-contribution-grid-snake.svg" /> -->
