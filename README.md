@@ -4,21 +4,23 @@
   <img src="https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif" alt="First Heading" width=90%>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Pun VireakRoth</h1>
-<h3 align="center">I Love Tech, I'm learning not simply to fulfill an obligation, but also to satisfy my interest and curiosity.</h3>
-<img align="right" alt="itachi" width="250" src="https://github.com/Punvireakroth/Punvireakroth/blob/main/itachi.gif">
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Pun VireakRoth</h1>
+<h3 align="left">Learning not simply to fulfill an obligation, but also to satisfy interest and curiosity.</h3>
+<img align="right" alt="itachi" width="200" src="./spbu-logo.png">
 
 <p align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=Punvireakroth&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" />
  </p>
 
-- 🔭 I’m currently do a bachelors degree at Royal University of Phnom Penh major in **[ITE](https://github.com/PAIR-code/lit)**
+- 🎓 A Bachelor at Saint Petersburg State University **[SPBU](https://github.com/PAIR-code/lit)**
 
-- 🔭 I’m also do a Higher Diploma in Software Development at **[e2STEM](https://github.com/PAIR-code/lit)**
+- 🔭 Higher Diploma in Software Development at **[e2STEM](https://github.com/PAIR-code/lit)**
 
-- 🌱 I’m currently learning **Front&Back-End**
+- ⚒️ I’m working with **[MERN Stack](https://github.com/PAIR-code/lit)**
 
-- 📫 How to reach me **vireakrothpun@gmail.com**
+- 🌱 I’m learning **[Flutter](https://github.com/PAIR-code/lit)**
+
+<!-- - 📫 How to reach me **vireakrothpun@gmail.com** -->
 
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1_ktD9ko7JOfBDaAdYfE8fyth0qfd4zps/view?usp=sharing)
 
@@ -34,9 +36,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-<!-- Graph stats -->
-
-[![VireakRoth's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Punvireakroth&&theme=xcode)](https://github.com/Punvireakroth)
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Punvireakroth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Punvireakroth" /></p> -->
 
@@ -47,6 +46,3 @@
   <!-- Streak -->
   <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Punvireakroth&&theme=tokyonight" alt="Punvireakroth" /></p>
 </a>
-
-<!-- Snake -->
-<!-- <img src="https://raw.githubusercontent.com/Punvireakroth/Punvireakroth/output/github-contribution-grid-snake.svg" /> -->
