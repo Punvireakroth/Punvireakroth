@@ -12,7 +12,7 @@
 <img  src="https://komarev.com/ghpvc/?username=Punvireakroth&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" />
  </p>
 
-- 🎓 A Bachelor at Saint Petersburg State University **[SPBU](https://github.com/PAIR-code/lit)**
+- 🎓 A Bachelor at Saint Petersburg State University **[SPbU](https://github.com/PAIR-code/lit)**
 
 - 🔭 Higher Diploma in Software Development at **[e2STEM](https://github.com/PAIR-code/lit)**
 
@@ -25,6 +25,7 @@
 - 📄 Know about my experiences [resume link](https://drive.google.com/file/d/1_ktD9ko7JOfBDaAdYfE8fyth0qfd4zps/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
