@@ -1,8 +1,8 @@
 ![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif) 
 
- <p align="center">
+ <!-- <p align="center">
   <img src="https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif" alt="First Heading" width=90%>
-</p> 
+</p>  -->
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Pun VireakRoth</h1>
 <h3 align="left">Learning not simply to fulfill an obligation, but also to satisfy interest and curiosity.</h3>
