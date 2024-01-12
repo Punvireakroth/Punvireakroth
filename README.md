@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif)
+<!-- ![MasterHead](https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif) -->
 
  <!-- <p align="center">
   <img src="https://github.com/Punvireakroth/Punvireakroth/blob/main/moonlight.gif" alt="First Heading" width=90%>
