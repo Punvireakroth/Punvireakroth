@@ -8,11 +8,11 @@
 <h3 align="left">Learning not simply to fulfill an obligation, but also to satisfy interest and curiosity.</h3>
 <img align="right" alt="itachi" width="200" src="./spbu-logo.png">
 
-<p align="left"> 
+<!-- <p align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=Punvireakroth&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" /> 
-</p>
+</p> -->
 
-- 🎓 A Bachelor at Saint Petersburg State University **[SPbU](https://github.com/PAIR-code/lit)**
+<!-- - 🎓 A Bachelor at Saint Petersburg State University **[SPbU](https://github.com/PAIR-code/lit)** -->
 
 - 🔭 Higher Diploma in Software Development graduate **[e2STEM](https://github.com/PAIR-code/lit)**
 
