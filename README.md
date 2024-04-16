@@ -6,7 +6,7 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Pun VireakRoth</h1>
 <h3 align="left">Learning not simply to fulfill an obligation, but also to satisfy interest and curiosity.</h3>
-<img align="right" alt="itachi" width="200" src="./spbu-logo.png">
+<!-- <img align="right" alt="itachi" width="200" src="./spbu-logo.png"> -->
 
 <!-- <p align="left"> 
 <img  src="https://komarev.com/ghpvc/?username=Punvireakroth&label=Profile%20views&color=0e75b6&style=flat" alt="Punvireakroth" /> 
