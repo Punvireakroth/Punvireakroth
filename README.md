@@ -16,7 +16,7 @@
 
 - 🔭 Higher Diploma in Software Development graduate **[e2STEM](https://github.com/PAIR-code/lit)**
 
-- 🐘 I’m working with **[PHP Laravel](https://github.com/PAIR-code/lit)**
+<!-- - 🐘 I’m working with **[PHP Laravel](https://github.com/PAIR-code/lit)** -->
 
 - 📫 How to reach me **vireakrothpun@gmail.com**
 
